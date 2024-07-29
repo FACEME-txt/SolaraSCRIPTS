@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cilp1/hawkhub./main/aot%20auto%20fram.txt"))()
