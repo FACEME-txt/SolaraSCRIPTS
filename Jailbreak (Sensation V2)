@@ -1,0 +1,10 @@
+--[[
+Join discord (dsc.gg/sensation) for updates and support
+
+When running this script you automatically agree that:
+
+- You take full responsibility for any repercussions that can arise from using this script. 
+- You agree to Luarmor's Terms of Service: https://luarmor.net/tos.
+]]
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/730854e5b6499ee91deb1080e8e12ae3.lua"))()
