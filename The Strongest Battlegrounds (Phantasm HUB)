@@ -1,0 +1,5 @@
+--// https://discord.gg/bntsEjwnA5
+--// updated 24/07/2024 (key was changed before so it wouldn't work)
+getgenv().scriptWl = "KidsOnlyJoinDiscordIfScriptsDown"
+getgenv().ToggleKeybind = Enum.KeyCode.RightControl
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrain-Roblox/main/main/Phantasm.lua"))()
